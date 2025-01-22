@@ -46,4 +46,5 @@ function sortearAmigo() {
     }
 
     nomes = [];
+    atualizarLista();
 }
